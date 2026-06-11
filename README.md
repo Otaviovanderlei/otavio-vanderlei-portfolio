@@ -148,5 +148,5 @@ Meu objetivo é aplicar meus conhecimentos em projetos reais, aprender com profi
 
 - E-mail: otaviovanderlei1743@gmail.com
 - GitHub: https://github.com/OtavioVanderlei
-- LinkedIn: coloque aqui seu link do LinkedIn
+- LinkedIn: http://www.linkedin.com/in/ot%C3%A1vio-vanderlei-95aa0135a
 - Localização: Guarujá/SP
